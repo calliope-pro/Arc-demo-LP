@@ -1,4 +1,4 @@
-import { Box, Heading, ListItem } from '@chakra-ui/react';
+import { Box, Divider, Heading, ListItem } from '@chakra-ui/react';
 
 export const Section: React.FC<{
   id: string;
